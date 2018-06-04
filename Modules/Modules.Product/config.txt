@@ -1,0 +1,2 @@
+﻿Name: Modules.Product
+Folder: Views, Bin, wwwroot

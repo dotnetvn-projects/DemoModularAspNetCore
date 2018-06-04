@@ -1,0 +1,2 @@
+﻿Name: Modules.News
+Folder: Views, Bin, wwwroot
